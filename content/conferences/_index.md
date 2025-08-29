@@ -10,15 +10,20 @@ The SAMO (Sensitivity Analysis of Model Output) conferences are cross-disciplina
 
 This page gives a full list of past and upcoming SAMO conferences, with links to any resources that are still available.
 
-## :rotating_light: **UPCOMING** :rotating_light: 2025 Grenoble
+## :rotating_light: **UPCOMING** :rotating_light: 2028
 
-The next SAMO conference will be held in 2025 in Grenoble, France.
+The next SAMO conference will be held in 2028 (location to be defined).
+
+# Past conferences
+
+2025 France
 
 <a title="Shan Zhao, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:City_of_Grenoble.jpg"><img width="1200" alt="City of Grenoble" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/City_of_Grenoble.jpg/512px-City_of_Grenoble.jpg"></a>
 
 * :pushpin: **Location**: Grenoble, France
 * :house: **Host Institution**: Université Grenoble Alpes
 * :date: **Date**: April 2025
+* :link: **Links**: [Website](https://samo2025.sciencesconf.org/)
 
 # Past conferences
 
@@ -86,14 +91,14 @@ The next SAMO conference will be held in 2025 in Grenoble, France.
 * :date: **Date**: June 18th - June 20th 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_2001_Madrid.pdf)
 
-## 2001 Venice
+## 1998 Venice
 
 * :pushpin: **Location**: Venice Ca' Dolfin, Italy
 * :house: **Host Institution**: University of Venice
 * :date: **Date**: June 18th - June 20th 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
-## 2001 Belgirate
+## 1995 Belgirate
 
 * :pushpin: **Location**: Belgirate, Italy
 * :house: **Host Institution**: European Commision, Joint Research Centre
