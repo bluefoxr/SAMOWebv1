@@ -98,9 +98,9 @@ The next SAMO conference will be held in 2028 (location to be defined).
 * :date: **Date**: June 18th - June 20th 2001
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
-## 1995 Belgirate
+## 1995 Venice
 
-* :pushpin: **Location**: Belgirate, Italy
+* :pushpin: **Location**: Venice Ca' Dolfin, Italy
 * :house: **Host Institution**: European Commision, Joint Research Centre
 * :date: **Date**: 25th Sep - 27th Sep
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_95_Belgirate.pdf)
