@@ -95,7 +95,7 @@ The next SAMO conference will be held in 2028 (location to be defined).
 
 * :pushpin: **Location**: Venice Ca' Dolfin, Italy
 * :house: **Host Institution**: University of Venice
-* :date: **Date**: June 18th - June 20th 2001
+* :date: **Date**: June 18th - June 20th
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
 ## 1995 Venice
