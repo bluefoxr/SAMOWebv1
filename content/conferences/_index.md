@@ -40,7 +40,7 @@ The next SAMO conference will be held in 2028 (location to be defined).
 
 ![Barcelona](2019-barcelona2.jpg)
 
-* :pushpin: **Location**: Barcelona, Spain
+* :pushpin: **Location**: Barcelona, Spain    
 * :house: **Host Institution**: Universitat Oberta de Catalunya
 * :date: **Date**: Oct 28th - Oct 30th 2019
 * :link: **Links**: [Website](https://symposium.uoc.edu/23220/detail/ninth-international-conference-on-sensitivity-analysis-of-model-output.html) | [Proceedings](Proceedings_SAMO_2019.pdf)
@@ -98,7 +98,7 @@ The next SAMO conference will be held in 2028 (location to be defined).
 * :date: **Date**: June 18th - June 20th
 * :link: **Links**: [Proceedings](http://www.andreasaltelli.eu/file/repository/PROCEEDINGS_SAMO_1998_Venice.pdf)
 
-## 1995 - Belgirate
+## 1995 Belgirate
 
 * :pushpin: **Location**: Belgirate Villa Carlotta, Italy
 * :house: **Host Institution**: European Commision, Joint Research Centre
