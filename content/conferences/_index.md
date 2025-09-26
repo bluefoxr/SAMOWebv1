@@ -23,7 +23,7 @@ The next SAMO conference will be held in 2028 (location to be defined).
 * :pushpin: **Location**: Grenoble, France
 * :house: **Host Institution**: Université Grenoble Alpes
 * :date: **Date**: April 2025
-* :link: **Links**: [Website](https://samo2025.sciencesconf.org/) | [Proceedings](../proceedings/PROCCEDINGS_SAMO_2025_Grenoble.pdf)
+* :link: **Links**: [Website](https://samo2025.sciencesconf.org/) | [Proceedings](PROCCEDINGS_SAMO_2025_Grenoble.pdf)
 
 # Past conferences
 
