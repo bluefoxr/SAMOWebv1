@@ -1,3 +1,5 @@
 # SAMO website
 
-This is the repo for the SAMO group website which is now live at www.sensitivityanalysis.org
+This is a *now inactive* repo for the SAMO website. The source code for this website has now been moved to https://github.com/julemai/SAMOWebv1.
+
+Any modifications here will not cause changes to the SAMO website because it is not rendered from here anymore.
