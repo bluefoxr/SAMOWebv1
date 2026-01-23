@@ -3,7 +3,6 @@ content:
   user_groups:
   - Executive Committee
   - Scientific Committee
-  - Communication Committee
 design:
   show_interests: false
   show_role: true
