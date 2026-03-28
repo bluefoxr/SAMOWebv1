@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Grenoble Alpes University
   url: "https://www.univ-grenoble-alpes.fr/"
-role: President of SAMO
+role: Co-president
 social:
 - icon: envelope
   icon_pack: fas
