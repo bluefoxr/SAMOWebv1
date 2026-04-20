@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: EDF R&D
   url: "https://biooss1.wixsite.com/bertrand"
-role: Co-president
+role: President (2026-2028)
 social:
 - icon: globe
   icon_pack: fas
